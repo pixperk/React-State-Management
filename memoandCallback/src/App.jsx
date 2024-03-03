@@ -1,0 +1,13 @@
+import React, { useState, useMemo } from 'react'
+
+function App() {
+  const [numbers] = useState([10,20,,50,30])
+  const total = useMemo(()=>numbers.reduce((acc,number)=>acc+number,0),[numbers])
+  return (
+    <div>
+      Total : {total}
+    </div>
+  )
+}
+
+export default App
