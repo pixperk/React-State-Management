@@ -15,7 +15,7 @@ function Github() {
 
   return (
     <div className="m-10 bg-white rounded-lg shadow-md p-6 max-w-md mx-auto">
-      <h2 className="text-2xl font-bold mb-4 text-gray-800">Github Profile</h2>
+      <h2 className="text-2xl font-bold mb-4 text-gray-800"><FaGithub className="text-gray-600" /></h2>
       <div className="flex items-center mb-4">
         <div className="flex items-center">
           <img src={profile.avatar_url} alt="Profile" className="w-16 h-16 rounded-full mr-4" />
@@ -23,7 +23,7 @@ function Github() {
         </div>
         <div>
           <p className="text-lg font-semibold">{profile.name}</p>
-          <p className="text-gray-600"><FaGithub className="text-gray-600" />@{profile.login}</p>
+          <p className="text-gray-600">@{profile.login}</p>
         </div>
       </div>
       <p className="text-lg font-semibold mb-2">Bio:</p>
