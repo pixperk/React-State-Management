@@ -40,6 +40,6 @@ function Github() {
 export default Github;
 
 export const githubInfoLoader = async ()=>{
-  const res = await fetch('https://api.github.com/users/decoderwhoami')
+  const res = await fetch('https://api.github.com/users/pixperk')
   return res.json()
 }
