@@ -18,7 +18,7 @@ function App() {
     name: 'Jane'},
   ])
 
-  const onAddName = () => {
+  const onAddName = () => {22
     setNames([...names, {id:idRef.current++,
       name: inputRef.current.value}])//uncontrolled input
     inputRef.current.value=""
