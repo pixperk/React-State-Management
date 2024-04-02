@@ -1,0 +1,65 @@
+{
+    "posts": [
+      {
+        "title": "post1",
+        "body": "Artificial intelligence continues to amaze with its potential applications across various industries. From healthcare to finance, AI is reshaping the way we interact with technology.",
+        "userId": "user123",
+        "id": "1"
+      },
+      {
+        "title": "post2",
+        "body": "Renewable energy sources such as solar and wind power are gaining momentum as viable alternatives to traditional fossil fuels. With advancements in technology, we are closer than ever to achieving a sustainable energy future.",
+        "userId": "user456",
+        "id": "2"
+      },
+      {
+        "title": "post3",
+        "body": "Space agencies around the world are pushing the boundaries of space exploration with missions to Mars, the Moon, and beyond. Breakthroughs in propulsion systems and robotics are enabling us to venture further into the cosmos.",
+        "userId": "user789",
+        "id": "3"
+      },
+      {
+        "title": "post4",
+        "body": "E-commerce giants like Amazon and Alibaba continue to dominate the online retail landscape, revolutionizing the way we shop. With convenience and efficiency at the forefront, traditional brick-and-mortar stores are facing increasing competition.",
+        "userId": "user101",
+        "id": "4"
+      },
+      {
+        "title": "post5",
+        "body": "Telemedicine is transforming the healthcare industry by providing remote access to medical services. Patients can now consult with healthcare professionals from the comfort of their homes, improving accessibility and convenience.",
+        "userId": "user202",
+        "id": "5"
+      },
+      {
+        "title": "post6",
+        "body": "Climate change continues to pose significant challenges to our planet, with rising temperatures and extreme weather events becoming more frequent. Urgent action is needed to mitigate the effects and transition to a sustainable future.",
+        "userId": "user303",
+        "id": "6"
+      },
+      {
+        "title": "post7",
+        "body": "Biotechnology is revolutionizing healthcare, agriculture, and industry with innovations such as gene editing and biofuel production. These advancements hold the promise of addressing pressing global challenges.",
+        "userId": "user404",
+        "id": "7"
+      },
+      {
+        "title": "post8",
+        "body": "Autonomous vehicles are poised to revolutionize transportation by offering safer, more efficient modes of travel. With ongoing developments in artificial intelligence and sensor technology, fully autonomous cars may soon become a reality.",
+        "userId": "user505",
+        "id": "8"
+      },
+      {
+        "title": "post9",
+        "body": "Quantum computing has the potential to solve complex problems that are currently intractable for classical computers. Researchers are making strides in building scalable quantum systems, heralding a new era of computational power.",
+        "userId": "user606",
+        "id": "9"
+      },
+      {
+        "title": "post10",
+        "body": "The digital age is reshaping the way we work, with remote work and automation becoming increasingly prevalent. As technology continues to advance, adaptability and lifelong learning will be key to thriving in the future job market.",
+        "userId": "user707",
+        "id": "10"
+      }
+    ]
+  }
+  
